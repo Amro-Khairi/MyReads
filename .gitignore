@@ -12,6 +12,9 @@ log.txt
 .vscode/
 npm-debug.log*
 
+
+package-lock.json
+
 .idea/
 .ionic/
 .sourcemaps/
@@ -30,7 +33,7 @@ plugins/ios.json
 $RECYCLE.BIN/
 postgres_dev/
 logfile
-package-lock.json
+
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
